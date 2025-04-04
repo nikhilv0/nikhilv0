@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Nikhil V
 
-# About Me:
+
 4th year Computer Science Engineering Student
 
 
