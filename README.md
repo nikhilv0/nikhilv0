@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 4th year Computer Science Engineering Student
 
 
