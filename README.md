@@ -2,8 +2,7 @@
 
 
 4th year Computer Science Engineering Student
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2k8AGfaCShjbdxhSL2Qnt4&ust=1743837097027000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCMmpDqvYwDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/a0a93e90-ee27-40d2-8c79-7f3240d344d7)
-"
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2k8AGfaCShjbdxhSL2Qnt4&ust=1743837097027000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCMmpDqvYwDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/a0a93e90-ee27-40d2-8c79-7f3240d344d7)">
 
 
 ## 🌐 Socials:
